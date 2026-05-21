@@ -1,9 +1,11 @@
 <h1> Software Developer - FullStack ツ </h1>
 
 Desenvolvedor Full Stack com experiência em aplicações web escaláveis, atuando no backend e frontend com **Node.js**, **NestJS**, **PHP**, **Laravel**, **React** e **Vue.js**; sempre com TypeScript, **SOLID** e **Clean Architecture**.
-- Backend, trabalho com microsserviços, APIs REST, **RabbitMQ**, **Redis**, **AWS S3** e **PostgreSQL**. Ambientes containerizados com **Docker** e **Kubernetes** fazem parte do meu dia a dia.
+
+- Backend, trabalho com microsserviços, APIs REST, **RabbitMQ**, **Redis**, **AWS S3**, **Cloudflare R2** e **PostgreSQL**. Ambientes containerizados com **Docker** e **Kubernetes** fazem parte do meu dia a dia.
 - Frontend, desenvolvo interfaces modernas com **React** e **Vue.js**, usando **Shadcn/UI** e **Lucide React**, com fidelidade ao design system e integração via **Figma**.
-Já atuei no **Garupa App**, **Aride Brasil** e **HelperRecruiter**. Tenho experiência com testes automatizados, code reviews e metodologias ágeis. 
+
+Já atuei no **Garupa App**, **Aride Brasil** e **HelperRecruiter**. Tenho experiência com testes automatizados, code reviews e metodologias ágeis.
 
 📍 Manaus, Amazonas &nbsp;|&nbsp; 🌐 Disponível para oportunidades remotas
 
@@ -38,8 +40,9 @@ Já atuei no **Garupa App**, **Aride Brasil** e **HelperRecruiter**. Tenho exper
 ![Docker](https://img.shields.io/badge/Docker-253F7C?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0F193E?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-253F7C?style=for-the-badge&logo=amazons3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0F193E?style=for-the-badge&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-253F7C?style=for-the-badge&logo=jest&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-0F193E?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-253F7C?style=for-the-badge&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-0F193E?style=for-the-badge&logo=jest&logoColor=white)
 <br>
 
 ![SOLID](https://img.shields.io/badge/SOLID-0F193E?style=for-the-badge)
