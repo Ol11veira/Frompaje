@@ -1,4 +1,4 @@
-<h1> Software Developer - FullStack ツ </h1>
+<h1> Software Developer - FullStack </h1>
 
 Desenvolvedor Full Stack com experiência em aplicações web escaláveis e **desenvolvimento com IA (Claude)**, atuando no backend e frontend com **Node.js**, **NestJS**, **PHP**, **Laravel**, **React** e **Vue.js**; sempre com TypeScript, **SOLID** e **Clean Architecture**.
 
